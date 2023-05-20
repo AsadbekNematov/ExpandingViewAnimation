@@ -11,6 +11,7 @@
 		F76E27E62A192CB30097DE9F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76E27E52A192CB30097DE9F /* ContentView.swift */; };
 		F76E27E82A192CB50097DE9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F76E27E72A192CB50097DE9F /* Assets.xcassets */; };
 		F76E27EB2A192CB50097DE9F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F76E27EA2A192CB50097DE9F /* Preview Assets.xcassets */; };
+		F76E27F22A192CE00097DE9F /* ExpandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76E27F12A192CDF0097DE9F /* ExpandingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F76E27E52A192CB30097DE9F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F76E27E72A192CB50097DE9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F76E27EA2A192CB50097DE9F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F76E27F12A192CDF0097DE9F /* ExpandingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExpandingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		F76E27E22A192CB30097DE9F /* ExpandingViewAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				F76E27F12A192CDF0097DE9F /* ExpandingView.swift */,
 				F76E27E32A192CB30097DE9F /* ExpandingViewAnimationApp.swift */,
 				F76E27E52A192CB30097DE9F /* ContentView.swift */,
 				F76E27E72A192CB50097DE9F /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			files = (
 				F76E27E62A192CB30097DE9F /* ContentView.swift in Sources */,
 				F76E27E42A192CB30097DE9F /* ExpandingViewAnimationApp.swift in Sources */,
+				F76E27F22A192CE00097DE9F /* ExpandingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
